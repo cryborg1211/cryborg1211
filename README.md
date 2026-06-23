@@ -1,4 +1,4 @@
-# Hi there, I'm Cao Bảo Khương (cryborg1211) 👋
+# Hi there, I'm Khương (cryborg1211) 👋
 
 ### 🚀 Final-Year Data Science Student & AI Engineer
 
