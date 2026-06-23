@@ -22,14 +22,6 @@ I am a final-year Data Science student at **International University (IU) - VNU 
   * Integrated a backtesting engine and leveraging Gemini API for market sentiment analysis.
   * Optimized performance with advanced database indexing in SQLite.
 
-* **Agricultural Disease Classification Model**
-  * Built a deep learning model using **PyTorch** to detect and classify crop diseases in rice, coffee, and dragon fruit.
-  * Handled data scraping, preprocessing, and model architecture optimization.
-
-* **Project JOBJOB** (`JOBJOB-web` / `JobJob`)
-  * Served as **Project Manager** leading the team during the **IU Startup Demo Day 2025**.
-  * Developed a modern web platform combining data-driven insights for recruitment.
-
 ---
 
 ### 🏆 Hackathons & Achievements
